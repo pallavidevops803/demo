@@ -1,0 +1,13 @@
+[project]
+name = "sample_python_app"
+version = "1.0.0"
+description = "Simple Python project"
+dependencies = [
+  "requests",
+  "flask"
+]
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
