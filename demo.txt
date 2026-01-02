@@ -1,0 +1,7 @@
+  name:install java package 
+  host:local host
+  become:true
+  tasks;12
+  -name:install java on ubuntu os
+  apt"
+
